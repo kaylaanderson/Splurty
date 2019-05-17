@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Splurty
 
-Things you may want to cover:
+## Introduction
 
-* Ruby version
+> A database-powered quote generator with a mobile-first design, using the Ruby on Rails framework, HTML, and CSS. Uses Git and GitHub for version control, and launchedon Heroku.
 
-* System dependencies
+## Technologies
 
-* Configuration
+> * Ruby on Rails framework
+> * HTML
+> * CSS
+> * Bootstrap
 
-* Database creation
+## Deployment
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+> https://splurty-kayla-anderson.herokuapp.com/
